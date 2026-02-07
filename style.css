@@ -206,42 +206,32 @@ img{
     font-size: smaller;
 
 }
+/* contact section starts */
 #contact-sec{
     display: flex;
     justify-content: center;
-    justify-content: space-evenly;
-    align-items: center;
-    border: 2px solid black;
-    width: 60vw;
-    height: 60vh;
-    border-radius: 25px;
+    align-items: start;
     justify-self: center;
-    margin-top: 2rem;
+    width: 60vw;
+    height: 50vh;
+    margin-top: 6rem;
+}
+#social-m{
+    height: 50vh;
+    width: 25vw;
+    background-color: #1f2937;
+    justify-self: start;
+    border-radius: 8px 0px 0px 8px;
 
 }
-#header-contact{
-    display: grid;
-    align-self: flex-start;
-    margin-top: 1rem;
+#social-m h2{
+    color: white;
+}
+#msg-form{
+    height: 50vh;
+    width: 35vw;
+    background-color: rgb(239, 239, 237);
+    border-radius: 0px 8px 8px 0px;
 
 }
-.msg{
-    height: 10rem;
-    width: 10rem;
-    border: 2px solid black;
-    display: grid;
-    justify-self:left;
-}
-#msg-div{
-    width: 1010rem;
-    display: flex;
-    justify-content: space-between;
-}
-
-.icons{
-
-    font-size: 3rem;
-    color: black;
-}
-
 
