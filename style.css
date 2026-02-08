@@ -128,12 +128,14 @@ img{
     width: 59rem;
     display: grid;
     justify-content: center;
-    background-color: #e3e4e6;
+    background-color: #263447;
     border-radius: 20px;
+
 }
 #prj-div h1{
     margin-top: 2rem;
     justify-self: center;
+    color: white;
 
 }
 #prj-sec{
@@ -176,13 +178,14 @@ img{
 
 .click a{
     text-decoration: none;
-    background-color: rgb(189, 193, 189);
+    background-color: rgb(96, 177, 249);
     font-size: 1.1rem;
     border-radius: 25rem;
     width: 4.3rem;                                  
     display: flex;
     justify-content: center;    
     margin-left: 0.8rem;
+    color: white;
 }
 
 /* Contact section */
@@ -308,9 +311,6 @@ img{
     width:23vw;
     height: 20vh;
     display: grid;
-}
-#inp-mss input{
-    
 }
 #sendmsg-btn{
     height: 6vh;
