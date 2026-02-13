@@ -232,6 +232,7 @@ img{
     justify-content: center;
     height: 50vh;
     width: 25vw;
+    background-color: #1f2937;
     background-color: #263447;
     justify-self: start;
     border-radius: 8px 0px 0px 8px;
@@ -246,12 +247,13 @@ img{
     height: 1.5rem;
     margin-top: 19px;
 }
+
 #email-ph{
     display:grid;
     justify-items: center;
     height: fit-content;
-    
-    
+
+
 }
 .txt{
     color: rgb(205, 202, 202);
@@ -283,7 +285,6 @@ img{
 
 }
 
-
 /* form section */
 #msg-form{
     height: 50vh;
@@ -312,6 +313,7 @@ img{
     height: 20vh;
     display: grid;
 }
+
 #sendmsg-btn{
     height: 6vh;
     width: 12vw;
